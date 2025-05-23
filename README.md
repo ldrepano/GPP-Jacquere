@@ -13,4 +13,3 @@ python3 -m venv run_jacquere_code
 source run_jacquere_code/bin/activate
 pip install -r requirements.txt 
 ```
-All data necessary to run the notebooks in each section are supplied in the corresponding Data directories. Temporary files and those exceeding 25 MB are excluded; the associated code supplies details for obtaining such files. 
