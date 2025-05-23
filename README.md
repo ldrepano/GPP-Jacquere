@@ -1,6 +1,6 @@
 # GPP Jacquere Manuscript Repository
 
-This repository contains the code for the development of Aggregate CFD and design of the Jacquere Library. 
+This repository contains the code and data required for the development of Aggregate CFD and design of the Jacquere Library. Data that exceeds 2GB is omitted, and detailed instructions on the origin of such data is provided.
 
 For calculation of Aggregate CFD scores and other guide selection criteria implemented in Jacquere, please refer to the GPP library design webtool, [CRISPick](broad.io/crispick)
 
