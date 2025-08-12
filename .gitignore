@@ -1,0 +1,11 @@
+1. GUIDE-seq data analysis/Data/guideseq_2024_nobulges_withCFD.csv
+1. GUIDE-seq data analysis/Data/guideseq_bulges.csv
+1. GUIDE-seq data analysis/Data/YaishOrenstein2024/
+2. Developing promiscuous classifier/Data/rs3val_essentials_batch2_verbose_1_22_2024-sgrna-designs.offtargetdisco.txt.gz
+2. Developing promiscuous classifier/Data/rs3validation_essentials_batch1_verbose_1_22_2024-sgrna-designs.offtargetdisco.txt.gz
+2. Developing promiscuous classifier/Data/sgrna-designs.targetdisco.txt.gz
+3. External validation of promiscuous classifier/Data/AvanaLogfoldChange.csv
+3. External validation of promiscuous classifier/Data/avana_noness_verbose-sgrna-designs.offtargetdisco.txt.gz
+5. Assessment of  CRISPRko Cas9 Genome Wide Libraries/Data/mart_export_ensembl113_paralogs.txt
+5. Assessment of  CRISPRko Cas9 Genome Wide Libraries/Data/CRISPick evaluated CRISPRko Cas9 Genome Wide Libraries
+

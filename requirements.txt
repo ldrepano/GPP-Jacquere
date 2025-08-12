@@ -1,0 +1,6 @@
+jupyter
+gpplot
+statannotations==0.7.2
+scikit-learn==1.6.1
+matplotlib_venn
+openpyxl
