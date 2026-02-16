@@ -1,8 +1,8 @@
 # GPP Jacquere Manuscript Repository
 
-Code to accompany the manuscript "Balancing off-target and on-target considerations for optimized Cas9 CRISPRko library design" 
+This repository features the source data and code used in the development of the CRISPick Aggregate CFD metric and Jacquere Library (including validation screen data and analysis scripts) as presented in "Balancing off-target and on-target considerations for optimized Cas9 CRISPRko library design" (Drepanos et al., *Cell Genomics*, 2025). 
 
-This repository contains the code and data required for the development of Aggregate CFD and design of the Jacquere Library. Data that exceeds 100MB is omitted, and information on the origin of such data is provided in the corresponding jupyter notebooks.
+External source data that exceeds 100MB is omitted, and information on the origin of such data is provided in the corresponding jupyter notebooks.
 
 For calculation of Aggregate CFD scores and other guide selection criteria implemented in Jacquere, please refer to the GPP library design webtool, [CRISPick](broad.io/crispick)
 
