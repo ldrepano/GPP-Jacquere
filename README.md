@@ -15,3 +15,5 @@ python3 -m venv ~/run_jacquere_code
 source ~/run_jacquere_code/bin/activate
 pip install -r requirements.txt 
 ```
+
+**To implement the Z-score hit-calling method on your own data**, see screen_analysis_tutorial.ipynb for guidance. 
