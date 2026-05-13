@@ -16,4 +16,4 @@ source ~/run_jacquere_code/bin/activate
 pip install -r requirements.txt 
 ```
 
-**To implement the Z-score hit-calling method on your own data**, see screen_analysis_tutorial.ipynb for guidance. 
+**To implement the Z-score hit-calling method on your own data**, see the [screen analysis tutorial](https://github.com/ldrepano/GPP-Jacquere/blob/main/screen_analysis_tutorial.ipynb) for guidance. 
