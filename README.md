@@ -11,7 +11,7 @@ To reproduce this code, it is recommended to clone this repository, and download
 ```
 git clone https://github.com/ldrepano/GPP-Jacquere
 cd GPP-Jacquere
-python3 -m venv run_jacquere_code
-source run_jacquere_code/bin/activate
+python3 -m venv ~/run_jacquere_code
+source ~/run_jacquere_code/bin/activate
 pip install -r requirements.txt 
 ```
